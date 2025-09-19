@@ -25,8 +25,23 @@ Pyhton Code and Notes :
 Pyhton Code and Notes : 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/venkateswaran-online/Scaler-Lecture-Notes/blob/main/DAV/AR_DAV4.ipynb)
 
-### Class 05
-Pyhton Code and Notes : DAV : Amazon sales data analysis 1
+### Class 05 - DAV : Amazon sales data analysis 1
+Pyhton Code and Notes : 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/venkateswaran-online/Scaler-Lecture-Notes/blob/main/DAV/AR_DAV5.ipynb)
+
+### Class 06 - Amazon sales data analysis 2
+
+### Class 07 - Analyzing Sachin Tendulkar's ODI Career
+
+### Class 08 - Analyzing Sachin Tendulkar's ODI Career Contd.
+
+### Class 09 - Analyzing Outcomes: Weight-Height Dataset
+
+### Class 10 - Unveiling Patterns in Medical Costs Through EDA and Hypothesis Testing 1
+
+### Class 11 - Unveiling Patterns in Medical Costs Through EDA and Hypothesis Testing 2
+
+### Class 12 - Behavioral Analytics: Understanding Credit Card Usage Patterns
+
 
 
