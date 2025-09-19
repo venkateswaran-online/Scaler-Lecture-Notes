@@ -16,3 +16,17 @@ Pyhton Code :
 
 Digital Notes:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/venkateswaran-online/Scaler-Lecture-Notes/blob/main/DAV/AR_DAV1_Notes2.ipynb)
+
+### Class 03
+Pyhton Code and Notes : 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/venkateswaran-online/Scaler-Lecture-Notes/blob/main/DAV/AR_DAV3_Pandas_Notes3.ipynb)
+
+### Class 04
+Pyhton Code and Notes : 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/venkateswaran-online/Scaler-Lecture-Notes/blob/main/DAV/AR_DAV4.ipynb)
+
+### Class 05
+Pyhton Code and Notes : 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/venkateswaran-online/Scaler-Lecture-Notes/blob/main/DAV/AR_DAV5.ipynb)
+
+
