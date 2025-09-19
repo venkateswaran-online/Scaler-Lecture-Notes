@@ -1,4 +1,4 @@
-#Scaler Notes from Akash Rajpuria Lecture
+# Scaler Notes from Akash Rajpuria Lecture
 
 # Scaler Lecture Notes
 
